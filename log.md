@@ -3,6 +3,7 @@
 ### Day 0: May 31, 2021 
 
 **Today's Progress**: Created this repo for tracking my daily progress, will maintain this log.md file to journal the updates.
+Also, created a new kernel for anaconda jupyter for exploiting GPU using tensorflow. 
 
 **Motivation:**  Always wanted to add discipline into my learnings and work to boost my productivity in the long run.
 However, in any timeboxed event, I often find myself sleeping in the first lap, crawling in the second, running in third and finally sprinting in the last quater 
@@ -15,3 +16,4 @@ and I may or maynot be able to complete this challenge but atleast its a good st
 to kick off this challenge from June 01, 2021 :) 
 
 ![](resources/countdown-imgs/30.PNG)
+

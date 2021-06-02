@@ -15,5 +15,22 @@ quarters of the race and complete it with joy and mental peace. However, I ackno
 and I may or maynot be able to complete this challenge but atleast its a good start in right direction, and I feel motivated and happy
 to kick off this challenge from June 01, 2021 :) 
 
-![](resources/countdown-imgs/30.PNG)
 
+### Day 1 June 1, 2021
+
+**Today's Progress**:
+Created environment for tic-tae-toc learning agents 
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+### Day 2: June 2, 2021
+
+**Today's Progress**
+Trained the reinforcement learning agent
+
+**Thoughts**:
+
+**Link(s) to work**: 

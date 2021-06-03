@@ -34,3 +34,13 @@ Trained the reinforcement learning agent
 **Thoughts**:
 
 **Link(s) to work**: 
+
+
+### Day 3: June 3, 2021
+
+**Today's Progress**
+Tuned the hypermarkets for the reinforcement agent
+
+**Thoughts**:
+
+**Link(s) to work**: 

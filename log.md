@@ -44,3 +44,14 @@ Tuned the hypermarkets for the reinforcement agent
 **Thoughts**:
 
 **Link(s) to work**: 
+
+
+### Day 3: June 3, 2021
+
+**Today's Progress**
+Succesfully trained the reinforcement agent with 70% win ratio 
+
+**Thoughts**:
+
+**Link(s) to work**: 
+

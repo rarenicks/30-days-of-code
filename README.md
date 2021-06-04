@@ -7,4 +7,4 @@ Find detailed updates in log.md
 - Day 1/30 : Created environment for tic-tae-toc learning agents 
 - Day 2/30 : Trained the reinforcement learning agent
 - Day 3/30 : Tuned the hypermarkets for the reinforcement agent
-    
+- Day 4/30 : Succesfully trained the reinforcement agent with 70% win ratio 

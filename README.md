@@ -8,3 +8,4 @@ Find detailed updates in log.md
 - Day 2/30 : Trained the reinforcement learning agent
 - Day 3/30 : Tuned the hypermarkets for the reinforcement agent
 - Day 4/30 : Succesfully trained the reinforcement agent with 70% win ratio 
+- Day 5/30 : Introduction to deep reinforcement learning. 

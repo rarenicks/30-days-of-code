@@ -68,3 +68,7 @@ Started learning about the introduction to deep reinforcement learning.
 
 **Today's Progress**
 Learned about Deep Q learning
+
+### Day 7: June 7, 2021
+**Today's Progress**
+Studied about math behind Deep Q learning and its several architectures 

@@ -64,3 +64,7 @@ Started learning about the introduction to deep reinforcement learning.
 
 **Link(s) to work**: 
 
+### Day 6: June 6, 2021
+
+**Today's Progress**
+Learned about Deep Q learning

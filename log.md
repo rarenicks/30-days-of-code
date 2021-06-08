@@ -72,3 +72,8 @@ Learned about Deep Q learning
 ### Day 7: June 7, 2021
 **Today's Progress**
 Studied about math behind Deep Q learning and its several architectures 
+
+
+### Day 8: June 8, 2021
+**Today's Progress**
+Updated the reinforcement learning agent for tic tae toe to run for 5 Million episodes.

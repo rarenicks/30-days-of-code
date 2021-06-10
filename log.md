@@ -78,7 +78,10 @@ Studied about math behind Deep Q learning and its several architectures
 **Today's Progress**
 Updated the reinforcement learning agent for tic tae toe to run for 5 Million episodes.
 
-
 ### Day 9: June 9, 2021
 **Today's Progress**
 Learned about different architectures of DQN 
+
+### Day 10: June 10, 2021
+**Today's Progress**
+Read some articles abouts deep learning to understand industry applications.

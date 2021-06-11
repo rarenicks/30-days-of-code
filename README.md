@@ -14,3 +14,4 @@ Find detailed updates in log.md
 - Day 8/30 : Updated the reinforcement learning agent for tic tae toe to run for 5 Million episodes
 - Day 9/30 : Learned about different architectures of DQN 
 - Day 10/30 : Read some articles abouts deep learning to understand industry applications.
+- Day 11/30 : Started DQN project 

@@ -86,6 +86,11 @@ Learned about different architectures of DQN
 **Today's Progress**
 Read some articles abouts deep learning to understand industry applications.
 
-### Day 11: June 12, 2021
+### Day 11: June 11, 2021
 **Today's Progress**
-Started DQN project 
+Started DQN project
+
+### Day 12: June 12, 2021
+**Today's Progress**
+
+

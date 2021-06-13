@@ -92,5 +92,9 @@ Started DQN project
 
 ### Day 12: June 12, 2021
 **Today's Progress**
+Worked on RL-based system for assisting cab drivers
 
+### Day 13: June 13, 2021
+**Today's Progress**
+Code for training a deep Q-network
 

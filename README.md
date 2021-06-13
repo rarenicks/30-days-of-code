@@ -16,3 +16,4 @@ Find detailed updates in log.md
 - Day 10/30 : Read some articles abouts deep learning to understand industry applications.
 - Day 11/30 : Started DQN project
 - Day 12/30 : Worked on RL-based system for assisting cab drivers
+- Day 13/30 : Code for training a deep Q-network 

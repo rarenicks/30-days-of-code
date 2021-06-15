@@ -101,3 +101,6 @@ Code for training a deep Q-network
 ### Day 14: June 14, 2021
 **Today's Progress**
 Learned to train double Deep Q network 
+
+### Day 15: June 15, 2021
+**Today's Progress**

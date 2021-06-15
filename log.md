@@ -104,3 +104,4 @@ Learned to train double Deep Q network
 
 ### Day 15: June 15, 2021
 **Today's Progress**
+Learned about policy based methods in Deep RL 

@@ -18,4 +18,4 @@ Find detailed updates in log.md
 - Day 12/30 : Worked on RL-based system for assisting cab drivers
 - Day 13/30 : Code for training a deep Q-network
 - Day 14/30 : Learned to train double Deep Q network  
-- Day 15/30 : 
+- Day 15/30 : Learned about policy based methods in Deep RL 

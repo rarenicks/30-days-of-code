@@ -20,3 +20,4 @@ Find detailed updates in log.md
 - Day 14/30 : Learned to train double Deep Q network  
 - Day 15/30 : Learned about policy based methods in Deep RL 
 - Day 16/30 : Created the environment for Cab assisting RL project  
+- Day 17/30 : Trained the agent for Cab assisting RL project

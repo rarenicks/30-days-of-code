@@ -109,3 +109,7 @@ Learned about policy based methods in Deep RL
 ### Day 16: June 16, 2021
 **Today's Progress**
 Created the environment for Cab assisting RL project
+
+### Day 17: June 17, 2021
+**Today's Progress**
+Trained the agent for Cab assisting RL project

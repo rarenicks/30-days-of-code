@@ -113,3 +113,7 @@ Created the environment for Cab assisting RL project
 ### Day 17: June 17, 2021
 **Today's Progress**
 Trained the agent for Cab assisting RL project
+
+### Day 17: June 17, 2021
+**Today's Progress**
+Continued the agent training for more episodes and different sets of hyperparameters to get better result 

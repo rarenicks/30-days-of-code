@@ -21,3 +21,4 @@ Find detailed updates in log.md
 - Day 15/30 : Learned about policy based methods in Deep RL 
 - Day 16/30 : Created the environment for Cab assisting RL project  
 - Day 17/30 : Trained the agent for Cab assisting RL project
+- Day 18/30 : Continued the agent training for more episodes and different sets of hyperparameters to get better result

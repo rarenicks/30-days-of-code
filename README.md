@@ -22,3 +22,4 @@ Find detailed updates in log.md
 - Day 16/30 : Created the environment for Cab assisting RL project  
 - Day 17/30 : Trained the agent for Cab assisting RL project
 - Day 18/30 : Continued the agent training for more episodes and different sets of hyperparameters to get better result
+- Day 19/30 : Completed training 10k episodes with 3 Convolution layers 

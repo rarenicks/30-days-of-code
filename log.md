@@ -122,4 +122,7 @@ Continued the agent training for more episodes and different sets of hyperparame
 **Today's Progress**
 *Completed training 10k episodes with 3 Convolution layers 
 
+### Day 20: June 20, 2021
+**Today's Progress**
+Revised the concepts of backpropogation 
 

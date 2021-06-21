@@ -126,3 +126,6 @@ Continued the agent training for more episodes and different sets of hyperparame
 **Today's Progress**
 Revised the concepts of backpropogation 
 
+### Day 21: June 21, 2021
+**Today's Progress**
+Learned about actor-critic methods of DQL

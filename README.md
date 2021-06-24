@@ -27,3 +27,4 @@ Find detailed updates in log.md
 - Day 21/30 : Learned about actor-critic methods of DQL
 - Day 22/30 :
 - Day 23/30 :
+- Day 24/30 : 

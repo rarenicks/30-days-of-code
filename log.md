@@ -132,9 +132,16 @@ Learned about actor-critic methods of DQL
 
 ### Day 22: June 22, 2021
 **Today's Progress**
+Took a step back and again started reading in depth about ANN
 
 ### Day 23: June 23. 2021
 **Today's Progress**
+Learned about Feed forward information flow
 
 ### Day 24: June 24. 2021
 **Today's Progress**
+Studied about back propogation flow and weights updation process 
+
+### Day 25: June 25. 2021
+**Today's Progress**
+Learned about CNN architecture and understating convolution process

@@ -25,6 +25,7 @@ Find detailed updates in log.md
 - Day 19/30 : Completed training 10k episodes with 3 Convolution layers 
 - Day 20/30 : Revised the concepts of backpropogation 
 - Day 21/30 : Learned about actor-critic methods of DQL
-- Day 22/30 :
-- Day 23/30 :
-- Day 24/30 : 
+- Day 22/30 : Took a step back and again started reading in depth about ANN and its structure 
+- Day 23/30 : Learned about Feed forward information flow 
+- Day 24/30 : Studied about back propogation flow and weights updation process 
+- Day 25/30 : Learned about CNN architecture and understating convolution process

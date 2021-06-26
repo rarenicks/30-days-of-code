@@ -29,4 +29,5 @@ Find detailed updates in log.md
 - Day 23/30 : Learned about Feed forward information flow 
 - Day 24/30 : Studied about back propogation flow and weights updation process 
 - Day 25/30 : Learned about CNN architecture and understating convolution process
-- Day 26/30 : Building CNN in python using keras 
+- Day 26/30 : Building CNN in python using keras
+- Day 27/30 : Learned about different transfer learning using existing CNN architecture  

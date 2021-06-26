@@ -146,6 +146,10 @@ Studied about back propogation flow and weights updation process
 **Today's Progress**
 Learned about CNN architecture and understating convolution process
 
-### Day 25: June 25. 2021
+### Day 26: June 26. 2021
 **Today's Progress**
 Building CNN in python using keras
+
+### Day 27: June 27. 2021
+**Today's Progress**
+Learned about different transfer learning using existing CNN architecture

@@ -153,3 +153,7 @@ Building CNN in python using keras
 ### Day 27: June 27. 2021
 **Today's Progress**
 Learned about different transfer learning using existing CNN architecture
+
+### Day 28: June 28. 2021
+**Today's Progress**
+Studied about Recurrent neural networks and there types

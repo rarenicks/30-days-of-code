@@ -30,4 +30,5 @@ Find detailed updates in log.md
 - Day 24/30 : Studied about back propogation flow and weights updation process 
 - Day 25/30 : Learned about CNN architecture and understating convolution process
 - Day 26/30 : Building CNN in python using keras
-- Day 27/30 : Learned about different transfer learning using existing CNN architecture  
+- Day 27/30 : Learned about different transfer learning using existing CNN architecture
+- Day 28/30 : Studied about Recurrent neural networks and there types  

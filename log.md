@@ -157,3 +157,7 @@ Learned about different transfer learning using existing CNN architecture
 ### Day 28: June 28. 2021
 **Today's Progress**
 Studied about Recurrent neural networks and there types
+
+### Day 29: June 29. 2021
+**Today's Progress**
+Learned about flavours of RNN - LSTM and GRU 

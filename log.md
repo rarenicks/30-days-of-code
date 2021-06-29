@@ -161,3 +161,7 @@ Studied about Recurrent neural networks and there types
 ### Day 29: June 29. 2021
 **Today's Progress**
 Learned about flavours of RNN - LSTM and GRU 
+
+### Day 30: June 30. 2021
+**Today's Progress**
+Building RNN in python using keras

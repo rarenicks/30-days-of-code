@@ -33,3 +33,4 @@ Find detailed updates in log.md
 - Day 27/30 : Learned about different transfer learning using existing CNN architecture
 - Day 28/30 : Studied about Recurrent neural networks and there types
 - Day 29/30 : Learned about flavours of RNN - LSTM and GRU 
+- Day 30/30 : Building RNN in python using keras

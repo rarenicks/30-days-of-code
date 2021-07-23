@@ -135,3 +135,6 @@ Learned about actor-critic methods of DQL
 
 ### Day 23: June 23. 2021
 **Today's Progress**
+
+### Day 24: June 24. 2021
+**Today's Progress**

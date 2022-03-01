@@ -1,7 +1,17 @@
-# 30-days-of-AI
+# 30-days-of-RESERCH - MARCH 2022
+To track my daily progress for 30 days AI ML code challenge. 
+
+Find detailed updates in log-march-2022.md
+
+- Day 1/30 :
+
+
+
+
+# 30-days-of-AI - JUNE 2021
  To track my daily progress for 30 days AI ML code challenge. 
 
-Find detailed updates in log.md 
+Find detailed updates in log-june-2021.md 
 
 - Day 0/30 : Created this repo and new gpu kernel for anaconda jupyter
 - Day 1/30 : Created environment for tic-tae-toc learning agents 

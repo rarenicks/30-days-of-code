@@ -1,12 +1,24 @@
+
+# MOTIVATION :  
+Always wanted to add discipline into my learnings and work to boost my productivity in the long run.
+However, in any timeboxed event, I often find myself sleeping in the first lap, crawling in the second, running in third and finally sprinting in the last quater to get the things done. As I have practiced this habit over years, so most of the time I complete the work successfully but at the cost of screwed up sleep cycles and mental peace in the end.
+
+So, that's the main motivation of this challenge to not just organize my work pattern but to add consistency and discipline into it, so that I can just jog in the all four quarters of the race and complete it with joy and mental peace. However, I acknowledge this will be challenging and I may or maynot be able to complete this challenge but atleast its a good start in right direction, 
+
+# Completed Milestones : 
+- 30 days of AI : June 2021 
+- In Progress* : 30 days of Research : March 2022
+
 # 30-days-of-RESERCH - MARCH 2022
 To track my daily progress for 30 days AI ML code challenge. 
 
 Find detailed updates in log-march-2022.md
 
-- Day 1/30 :
+- Day 1/30 : Explored "Computer Aided Methods to Combat COVID-19 Pandemic" collection to find out different methods used by researchers on Covid relief. 
+- Day 2/30 : Started reading survey paper on covid detection - "A Comprehensive Survey of COVID-19 Detection Using Medical Images" 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 30-days-of-AI - JUNE 2021
  To track my daily progress for 30 days AI ML code challenge. 

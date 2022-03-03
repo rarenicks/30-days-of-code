@@ -1,5 +1,5 @@
 
-# MOTIVATION :  
+# Motivation :  
 Always wanted to add discipline into my learnings and work to boost my productivity in the long run.
 However, in any timeboxed event, I often find myself sleeping in the first lap, crawling in the second, running in third and finally sprinting in the last quater to get the things done. As I have practiced this habit over years, so most of the time I complete the work successfully but at the cost of screwed up sleep cycles and mental peace in the end.
 
@@ -16,6 +16,7 @@ Find detailed updates in log-march-2022.md
 
 - Day 1/30 : Explored "Computer Aided Methods to Combat COVID-19 Pandemic" collection to find out different methods used by researchers on Covid relief. 
 - Day 2/30 : Started reading survey paper on covid detection - "A Comprehensive Survey of COVID-19 Detection Using Medical Images" 
+- Day 3/30 : Explored methodology given in the survey paper and created a gist of it. 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------

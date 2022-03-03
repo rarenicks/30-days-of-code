@@ -11,3 +11,9 @@ Link : https://link.springer.com/journal/42979/topicalCollection/AC_7283af3e4f3f
 **Today's Progress**:
 - Read "A Comprehensive Survey of COVID-19 Detection Using Medical Images"
 Link : https://link.springer.com/article/10.1007/s42979-021-00823-1
+
+### Day 3: March 3, 2022
+
+**Today's Progress**:
+- Explored methodology given in "A Comprehensive Survey of COVID-19 Detection Using Medical Images"
+Link : https://link.springer.com/article/10.1007/s42979-021-00823-1
